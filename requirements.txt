@@ -1,0 +1,8 @@
+easyocr
+pytesseract
+transformers
+torch
+Pillow
+numpy
+Levenshtein
+loguru
